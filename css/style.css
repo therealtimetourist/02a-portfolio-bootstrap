@@ -1,0 +1,28 @@
+.panel-body{text-align: center;}
+.panel-body img{
+	height: 64px;
+	width: 64px;
+}
+
+.input-group-addon, 
+
+.btn-primary, 
+
+.panel-heading{
+	background-color: #4aaaa5; 
+	color:#fff
+}
+
+.footer {
+	background-color: #666;
+}
+
+.footer-text-color{color:#fff;}
+
+.navbar-right{
+	text-transform: uppercase;
+}
+
+#main{
+	background-color: #eee;
+}
