@@ -39,3 +39,38 @@ img{
 #main{
 	background-color: #fbfbfb;
 }
+
+/* Portfolio images */
+#example1{}
+#example1{background: #ccc url("../img/example_01.jpg") no-repeat;}
+#example2{background: #ccc url("../img/example_02.jpg") no-repeat;}
+#example3{background: #ccc url("../img/example_03.jpg") no-repeat;}
+#example4{background: #ccc url("../img/example_04.jpg") no-repeat;}
+#example5{background: #ccc url("../img/example_05.jpg") no-repeat;}
+
+.example-list{
+	height:50px; width:270px;
+	margin:20px;
+	float:left;
+	text-align: center;
+	padding:200px 0px 40px 0px;
+}
+
+/* Portfolio links */
+.example-list a{
+	background-color: #4aaaa5;
+	color:#fff;
+	padding:20px;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.example-list a:visited{color:#fff;}
+.example-list a:hover{color:#666;}
+
+#example-link1, #example-link2, #example-link3, #example-link4, #example-link5 {margin:0px;}
+#example-link1 {padding-left:100px; padding-right:101px;}
+#example-link2 {padding-left:93px; padding-right:94px;}
+#example-link3 {padding-left:91px; padding-right:92px;}
+#example-link4 {padding-left:64px; padding-right:64px;}
+#example-link5 {padding-left:60px; padding-right:61px;}
